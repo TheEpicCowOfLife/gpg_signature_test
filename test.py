@@ -11,4 +11,8 @@ Attempt 3: Looks like I have to do this using git... I guess it's time for me to
 how to use that then.
 
 Attempt 4: Fine, i'll use git instead of github desktop.
+
+Succesful signature: hey- looks like i never needed to learn how to use git to do this, awesome.
+My brain was too allergic to learning bash in order to do so. Looks like I have to put my
+password in everytime i commit now... ew.
 """)
